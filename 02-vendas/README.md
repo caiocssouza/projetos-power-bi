@@ -3,7 +3,6 @@ Projeto desenvolvido durante o curso Microsoft Power BI Para Business Intelligen
 🛠️ Ferramentas Utilizadas
 
 Microsoft Power BI
-DAX (Data Analysis Expressions)
 AppSource (visuais personalizados)
 
 📁 Fonte de Dados
