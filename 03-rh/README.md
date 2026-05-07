@@ -23,6 +23,7 @@ MediaSalarial = AVERAGE(DatasetRH[Salario_Mensal])
 TotalHoraExtra = CALCULATE([TotalFuncionarios], DatasetRH[Disponivel_Hora_Extra] = "Sim")
 %HoraExtra = DIVIDE([TotalHoraExtra], [TotalFuncionarios], 0)
 ```
+<img width="955" height="526" alt="Captura de tela 2026-05-07 024125" src="https://github.com/user-attachments/assets/15338b9a-e992-417a-ac05-cdc209eb565d" />
 
 ## 💡 Principais Insights
 - **1.400 funcionários** no total — 59,86% masculino e 40,14% feminino
