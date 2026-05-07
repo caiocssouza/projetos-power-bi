@@ -68,14 +68,6 @@ Gasto Total = SUMX(dados_marketing,
 - Desvio padrão como critério estatístico para outliers
 - Taxa de conversão e análise de campanhas de marketing
 
-## 📌 Projetos do Curso
-- [x] **1. Marketing** ← atual
-- [ ] 2. Comercial
-- [ ] 3. Recursos Humanos
-- [ ] 4. Logística
-- [ ] 5. Financeiro
-- [ ] 6. Contábil
-- [ ] 7. Mercado de Ações
 
 ## 👤 Autor
 **Caio Cesar Silva e Souza**
