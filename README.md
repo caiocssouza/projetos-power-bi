@@ -9,7 +9,7 @@ Repositório com projetos desenvolvidos durante minha jornada de aprendizado em 
 | 1 | Marketing | ✅ Concluído |
 | 2 | Comercial | ✅ Concluído |
 | 3 | Recursos Humanos | ✅ Concluído |
-
+| 4 | Logística | ✅ Concluído |
 ## 👤 Autor
 
 **Caio Cesar Silva e Souza**
