@@ -25,7 +25,8 @@ Base com **53.770 entregas** contendo informações de status, datas, regiões e
 
 ## 📸 Dashboard
 ![Dashboard de Logística]
-<img width="950" height="532" alt="Captura de tela 2026-05-19 010534" src="https://github.com/user-attachments/assets/2e2b1fce-8b40-4ec2-baa5-3259f8b18b6d" />
+<img width="956" height="532" alt="Captura de tela 2026-05-14 041031" src="https://github.com/user-attachments/assets/055f0fbf-5332-4ccc-b21f-e8534053c5aa" />
+
 
 
 ## 👤 Autor
