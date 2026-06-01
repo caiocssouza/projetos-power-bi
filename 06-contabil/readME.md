@@ -2,6 +2,8 @@
 
 Dashboard desenvolvido com o visual de Matriz no Power BI para análise do Balanço Patrimonial entre 2019 e 2023.
 
+<img width="912" height="511" alt="image" src="https://github.com/user-attachments/assets/2db1d62c-828a-434f-91bc-68e398fd8d6c" />
+
 ## 📈 Resultados
 
 | Métrica | Valor |
