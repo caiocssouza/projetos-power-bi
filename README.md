@@ -10,6 +10,9 @@ Repositório com projetos desenvolvidos durante minha jornada de aprendizado em 
 | 2 | Comercial | ✅ Concluído |
 | 3 | Recursos Humanos | ✅ Concluído |
 | 4 | Logística | ✅ Concluído |
+| 5 | Financeiro | ✅ Concluído |
+| 6 | Contábil | ✅ Concluído |
+| 7 | Mercado de ações | ✅ Concluído |
 ## 👤 Autor
 
 **Caio Cesar Silva e Souza**
