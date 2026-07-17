@@ -1,5 +1,8 @@
 # 📊 Mini Projeto — Análise de Campanha de Marketing
 
+<img width="920" height="512" alt="image" src="https://github.com/user-attachments/assets/89d32a92-927f-4f44-bdfa-6c4e40f09258" />
+
+
 Projeto de análise de dados desenvolvido durante o curso **Microsoft Power BI Para Business Intelligence e Data Science** da **Data Science Academy**.
 
 ## 🛠️ Ferramentas Utilizadas
